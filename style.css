@@ -1,0 +1,60 @@
+body {
+    text-align:center;
+    background-image: url("11.jpg");
+    background-repeat: no-repeat;
+    background-size:  cover; 
+    max-height: 5000px;
+}
+a {
+    color: gold;
+    font-weight: bold;
+
+        
+}
+h2 {
+    font-size: 72px;
+    color: gold;
+    font-style: italic;
+}
+h6 {
+    font-style: italic;
+    font-size: 72px;
+    color: gold;
+    }
+h5 {
+    font-style: italic;
+    font-size: 36px;
+    color: gold;
+}
+h1 {
+    font-style: italic;
+    font-size: 30px;
+    color: gold;
+}
+tr {
+    font-style: italic;
+    font-size: 30px;
+    color: gold;
+   
+}
+.leftcol1 {
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+rightpic {
+    float: right; 
+    margin: 0 0 5px 5px; 
+   } 
+.thumb img {
+    transform: rotate(90deg);
+    margin-left: 10px;
+}
+.leftcol9 {
+    transform: rotate(90deg);
+   }
+h3 {
+    font-style: italic;
+    font-size: 36px;
+    color: gold;
+}
+
